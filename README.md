@@ -6,10 +6,10 @@ I took several existing projects as source of this one.
 It is mainly a quick adaptation of Adafruit Code, links to those projects below.
 Love you Adafruit, your products and your contents are amazing!
 
-[Pyportal Openweather](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/PyPortal_OpenWeather)
-[Pyportal helper library](https://github.com/adafruit/Adafruit_CircuitPython_PyPortal)
-[Airlift usage](https://learn.adafruit.com/adafruit-airlift-breakout/circuitpython)
-[Add esp32 as a wifi co-processor](https://learn.adafruit.com/adding-a-wifi-co-processor-to-circuitpython-esp8266-esp32)
+* [Pyportal Openweather](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/PyPortal_OpenWeather)
+* [Pyportal helper library](https://github.com/adafruit/Adafruit_CircuitPython_PyPortal)
+* [Airlift usage](https://learn.adafruit.com/adafruit-airlift-breakout/circuitpython)
+* [Add esp32 as a wifi co-processor](https://learn.adafruit.com/adding-a-wifi-co-processor-to-circuitpython-esp8266-esp32)
 
 For my tests, I used a [Esp32 DevKit v1](https://docs.zerynth.com/latest/official/board.zerynth.doit_esp32/docs/index.html)
 As seen in the code, I used the following pins:
