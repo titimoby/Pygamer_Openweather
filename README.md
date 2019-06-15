@@ -25,4 +25,4 @@ If I can help, you know where to find me ;)
 
 Once more, a million thanks to Lady Ada and all fellow from Adafruit, employees and community: creativity and fun are such a wonderful thing!
 
-https://youtu.be/cXH3tTGvwLA
+[![rapide présentation vidéo](https://img.youtube.com/vi/cXH3tTGvwLA/0.jpg)](https://www.youtube.com/watch?v=cXH3tTGvwLA)
