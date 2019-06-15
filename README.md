@@ -12,6 +12,7 @@ Love you Adafruit, your products and your contents are amazing!
 * [Add esp32 as a wifi co-processor](https://learn.adafruit.com/adding-a-wifi-co-processor-to-circuitpython-esp8266-esp32)
 
 For my tests, I used a [Esp32 DevKit v1](https://docs.zerynth.com/latest/official/board.zerynth.doit_esp32/docs/index.html)
+
 As seen in the code, I used the following pins:
 
 * esp32_cs = DigitalInOut(board.D10)
@@ -19,6 +20,9 @@ As seen in the code, I used the following pins:
 * esp32_reset = DigitalInOut(board.D6)
 
 I will try to improve this code but I'm sure that in the end an equivalent to adafruit_pyportal library will be written for pygamer.
+
 If I can help, you know where to find me ;)
 
 Once more, a million thanks to Lady Ada and all fellow from Adafruit, employees and community: creativity and fun are such a wonderful thing!
+
+https://youtu.be/cXH3tTGvwLA
